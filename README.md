@@ -4,4 +4,4 @@
 
 產生ROC curves圖
 
-![A](hhttps://github.com/Mihun7111/107AB0755-final/blob/main/107AB0755.png)
+![](https://github.com/Mihun7111/107AB0755-final/blob/main/107AB0755.png?raw=true)
